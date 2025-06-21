@@ -1,0 +1,11 @@
+{
+  "name": "stremio-vidfast-addon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "stremio-addon-sdk": "^0.12.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
